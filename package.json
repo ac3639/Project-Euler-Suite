@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "version": "",
+  "scripts": {"start": "node server/server.js"},
+  "dependencies": {
+    "express": "^4.16.2",
+    "jasmine-node": "^1.14.5"
+  }
+}
